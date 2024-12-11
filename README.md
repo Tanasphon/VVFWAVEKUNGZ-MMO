@@ -1,6 +1,6 @@
 ---
 icon: globe
-cover: https://gitbookio.github.io/onboarding-template-images/header.png
+cover: .gitbook/assets/logo.png
 coverY: 0
 layout:
   cover:
