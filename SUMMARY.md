@@ -45,7 +45,7 @@
 
 ## Monster's Loot
 
-* [Page 2](monsters-loot/page-2.md)
+* [Loot](monsters-loot/loot.md)
 
 ## Ore
 
