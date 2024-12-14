@@ -28,7 +28,7 @@
 
 ## Area Monster
 
-* [Area Mons](area-monster/area-mons.md)
+* [Area Mons](area-monster/1-10.md)
 * [แดนก๊อบลิ่น \[ 10 - 20 \]](area-monster/10-20.md)
 * [แดนผู้ล่า \[ 20 - 30 \]](area-monster/20-30.md)
 * [พื้นที่ไร้ชีวี \[ 30 - 40 \]](area-monster/30-40.md)
