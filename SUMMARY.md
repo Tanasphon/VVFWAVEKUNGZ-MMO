@@ -28,12 +28,6 @@
 
 ***
 
-* [AREA MONSTERS](area-monsters.md)
-
-## Monster's Loot
-
-* [Loot](monsters-loot/loot.md)
-
-## Ore
-
-* [Page 1](ore/page-1.md)
+* [Area Monster](area-monster.md)
+* [Monster's Loot](monsters-loot.md)
+* [Mine](mine.md)

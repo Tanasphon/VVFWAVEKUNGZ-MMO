@@ -1,8 +1,9 @@
 ---
 description: ของดรอปมอนของแต่ละโลก โดยจะถูกเรียงตามโซนเลเวลจากน้อยไปมาก
+icon: sack-dollar
 ---
 
-# Loot
+# Monster's Loot
 
 ***
 
